@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Espírito Santo - Brasil<br><br>- 🗣️  Inglês C1 - Fluente<br>- 🔭 Cursando Análise e Desenvolvimento de Sistemas<br>- 📚 Atualmente estudando Java e Mysql</p>
+<p align="left">Espírito Santo - Brasil<br><br>- 🗣️  Inglês C1 - Fluente<br>- 🔭 Cursando Análise e Desenvolvimento de Sistemas<br>- 📚 Atualmente estudando Java, Mysql e PHP</p>
 
 ###
 
