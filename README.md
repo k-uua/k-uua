@@ -54,7 +54,8 @@
 
 ###
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=k-uua&theme=dark&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=k-uua&theme=dark&hide_border=false" />
+
 
 
 <div align="center">
@@ -64,5 +65,3 @@
 -
 ###
 
-
-###
