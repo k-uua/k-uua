@@ -25,9 +25,9 @@
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
-
-<p align="left">Espírito Santo - Brasil<br>- 🔭 Full Stack<br>- 🗣️ Inglês C1 - Fluente<br>- ⚡ Trabalhando atualmente com Laravel</p>
-
+<div align="center">
+  <p align="left">Espírito Santo - Brasil<br>- 🔭 Full Stack<br>- 🗣️ Inglês C1 - Fluente<br>- ⚡ Trabalhando atualmente com Laravel</p>
+</div>
 ###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
