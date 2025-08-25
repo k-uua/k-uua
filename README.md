@@ -28,7 +28,6 @@
 <div align="center">
   <p align="left">Espírito Santo - Brasil<br>- 🔭 Full Stack<br>- 🗣️ Inglês C1 - Fluente<br>- ⚡ Trabalhando atualmente com Laravel</p>
 </div>
-###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
@@ -53,9 +52,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=k-uua&theme=dark&hide_border=false" />
-
+</div>
 
 
 <div align="center">
