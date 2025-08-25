@@ -55,8 +55,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=k-uua&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=k-uua&theme=dark&hide_border=false" height="220" alt="streak graph" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-uua&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-uua&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
+-
 ###
 
 <div align="center">
